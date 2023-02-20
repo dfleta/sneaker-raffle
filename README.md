@@ -21,7 +21,7 @@ Implementa las historias de usuario de las GUI proporcionadas en la carpeta [his
 
 Intenta que la salida del programa por CLI sea lo más parecida posible a las imágenes que se proporcionan. Cada una de ellas se corresponde con una de las historias de usuario que se detallan en los epígrafes siguientes.
 
-!["Historias de usuario"](./images/salida_CLI/ui_01.png "output ASCII CLI")
+!["Historias de usuario"](./images/salida_CLI/UI_01.png "output ASCII CLI")
 
 
 ## Diagrama de clases UML / Arquitectura de la app.
