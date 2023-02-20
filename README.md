@@ -14,7 +14,7 @@ Implementa las historias de usuario de las GUI proporcionadas, pero en ASCII.
 
 La lógica tras cada historia de usuario está descrita en el `main` de la clase principal `App.java`.
 
-Implementa las historias de usuario de las GUI proporcionadas en la carpeta [historias de usuaria GUI](https://github.com/dfleta/stockx-ascii/tree/master/historias_de_usuaria_GUI), pero en ASCII.
+Implementa las historias de usuario de las GUI proporcionadas en la carpeta [historias de usuaria GUI](https://github.com/dfleta/sneaker-raffle/tree/main/images/user_stories), pero en ASCII.
 
 
  ## Salida de la aplicación
